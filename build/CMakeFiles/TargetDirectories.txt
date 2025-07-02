@@ -1,0 +1,6 @@
+/Users/arkadiy/Documents/Git/GitHub/Trade/build/CMakeFiles/TradeBot.dir
+/Users/arkadiy/Documents/Git/GitHub/Trade/build/CMakeFiles/edit_cache.dir
+/Users/arkadiy/Documents/Git/GitHub/Trade/build/CMakeFiles/rebuild_cache.dir
+/Users/arkadiy/Documents/Git/GitHub/Trade/build/plugins/DummyStrategy/CMakeFiles/DummyStrategy.dir
+/Users/arkadiy/Documents/Git/GitHub/Trade/build/plugins/DummyStrategy/CMakeFiles/edit_cache.dir
+/Users/arkadiy/Documents/Git/GitHub/Trade/build/plugins/DummyStrategy/CMakeFiles/rebuild_cache.dir
